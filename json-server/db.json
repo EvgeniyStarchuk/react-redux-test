@@ -1,0 +1,57 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "https://www.w3schools.com/images/w3schools_green.jpg",
+      "name": "Product name",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ]
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://www.w3schools.com/images/w3schools_green.jpg",
+      "name": "Product name",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ]
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://www.w3schools.com/images/w3schools_green.jpg",
+      "name": "Product name",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ]
+    }
+  ],
+  "comment": [
+    {
+      "id": 3,
+      "productId": 1,
+      "description": "some text here",
+      "date": "14:00 22.08.2021"
+    }
+  ]
+}
